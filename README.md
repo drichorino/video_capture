@@ -1,1 +1,1 @@
-# video_capture
+Captures video using OpenCV.
